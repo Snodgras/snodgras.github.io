@@ -24,10 +24,14 @@ This site is under development! Thank you for your patience!
 8.	Manchanda, N., **S.J. Snodgrass**, J. Ross-Ibarra, M.B. Hufford. 2018. Evolution and adaptation in the maize genome. In The Zea mays Genome, Bennetzen, Flint-Garcia, Hirsch, Tuberosa (Eds.), Springer Nature Publishing
 9.	**Snodgrass, S.**, Jareczek, J., Wendel, J. F. 2017. “An examination of nucleotypic effects in diploid and polyploid cotton” _Annals of Botany_ 9 [doi:10.1093/aobpla/plw082](https://doi.org/10.1093/aobpla/plw082)
 
+[Learn more about the grants, awards, and fellowships I've received here.](pages/GrantsAwardsFellowships.md)
+
 ![Sunrise on the solstice overlooking hybrid population of maize in Iowa](assets/Ames_2020_June20_fieldoverview.jpeg)
 
 # Ph.D. at Iowa State University in the Hufford Lab
+
 **Ph.D. in Plant Biology awarded January 2024**
+
 My Ph.D thesis work centers on the genetic models of hybrid vigor and genome evolution across the genus *Zea* and *Tripsacum*. By understanding how evolutionary and population dynamics have affected the genome structure of maize and its wild relatives, and then relate those processes to phenotype, this research will provide foundational information to plant domestication, which can be used to improve existing crops or accelerate domestication of wild plants or orphan crops. 
 
 [Learn more about my Ph.D. research projects here](pages/PhDresearch.md)
