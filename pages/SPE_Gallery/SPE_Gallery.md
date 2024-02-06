@@ -1,4 +1,4 @@
-<img width="427" alt="image" src="https://github.com/Snodgras/snodgras.github.io/assets/35608289/0318355f-98c9-4097-8c15-505acd535a0f"># Gallery of SPE and Trait Results
+#Gallery of SPE and Trait Results
 _Because it can't all fit on a poster_
 
 # A little background
