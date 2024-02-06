@@ -9,7 +9,7 @@ This site is under development! Thank you for your patience!
 
 [Read the grant abstract here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305694&HistoricalAwards=false) 
 
-![Maize color diversity](https://github.com/Snodgras/snodgras.github.io/main/assets/Ames_2020_Sep26_colorwheelofcorn.jpg)
+![Maize color diversity](assets/Ames_2020_Sep26_colorwheelofcorn.jpg)
 
 ![Full moon in corn field at dusk](assets/Ames_2019_July15_fullmoon.jpeg)
 
@@ -24,7 +24,7 @@ This site is under development! Thank you for your patience!
 8.	Manchanda, N., **S.J. Snodgrass**, J. Ross-Ibarra, M.B. Hufford. 2018. Evolution and adaptation in the maize genome. In The Zea mays Genome, Bennetzen, Flint-Garcia, Hirsch, Tuberosa (Eds.), Springer Nature Publishing
 9.	**Snodgrass, S.**, Jareczek, J., Wendel, J. F. 2017. “An examination of nucleotypic effects in diploid and polyploid cotton” _Annals of Botany_ 9 [doi:10.1093/aobpla/plw082](https://doi.org/10.1093/aobpla/plw082)
 
-![Sunrise on the solstice overlooking hybrid population of maize in Iowa](https://github.com/Snodgras/snodgras.github.io/main/assets/Ames_2020_June20_fieldoverview.jpeg)
+![Sunrise on the solstice overlooking hybrid population of maize in Iowa](assets/Ames_2020_June20_fieldoverview.jpeg)
 
 # Ph.D. at Iowa State University in the Hufford Lab
 **Ph.D. in Plant Biology awarded January 2024**
