@@ -8,7 +8,7 @@ Through the iterative process of experimentation, reflection, and research, I pl
 
 [Return to the main page](https://snodgras.github.io/)
 
-![Colorful maize ear in red and gold](assets/Ames_2019_Sept18_bufferear.jpeg)
+![Colorful maize ear in red and gold](../assets/Ames_2019_Sept18_bufferear.jpeg)
 
 # Teaching Experience
 
