@@ -1,4 +1,5 @@
-# Dr. Samantha Snodgrass' research at a glance
+# Dr. Samantha Snodgrass' Research
+## Current Research
 This site is under development! Thank you for your patience!
 
 **NSF Postdoctoral Fellow at University of California Davis** (_February 2024 - January 2027_)
@@ -28,7 +29,7 @@ This site is under development! Thank you for your patience!
 
 ![Sunrise on the solstice overlooking hybrid population of maize in Iowa](assets/Ames_2020_June20_fieldoverview.jpeg)
 
-# Ph.D. at Iowa State University in the Hufford Lab
+## Ph.D. at Iowa State University in the Hufford Lab
 
 **Ph.D. in Plant Biology awarded January 2024**
 
@@ -36,61 +37,21 @@ My Ph.D thesis work centers on the genetic models of hybrid vigor and genome evo
 
 [Learn more about my Ph.D. research projects here](pages/PhDresearch.md)
 
-## Teaching Experience
+# Teaching 
 
-Teaching Assistant of BIOL312L: Ecology Lab, Iowa State University _(Fall semester 2023)_
-* Led and facilitated ~40 upper level undergraduates through ecology laboratories
-* Focused on building data analysis and scientific writing skills of students
+**I teach to serve others and prepare students to tackle the problems of the 21st century.**
 
-Instructor of Record of BIOL315: Evolution, Iowa State University _(Spring semester 2023)_
-* Revised and presented all lectures for a class of ~130 upper level undergraduates
-* Created new assignments in collaboration with the TA to better fulfill learning objectives
+I believe that education can improve lives and help solve global and local challenges. 
+In that spirit, I view classrooms as an environment where students can discover and apply new ways of thinking, forge connections, and engage their creativity and critical thinking skills. 
+My role as an educator is build an environment and course frame work that enables these experiences and is supported by pedagogical research. 
+I have a broad array of teaching experiences across institutions in biological sciences and general support. 
+I am excited to pursue opportunities to develop course materials and teach classes in general biology, plant biology, evolutionary genetics, and computational skills for biologists. 
 
-Teaching Assistant of BIOL315: Evolution, Iowa State University _(Fall semester 2022)_
-* Assisted in grading and creating assessments
+[See more about my teaching philosophy and experience here](pages/Teaching.md)
 
-Guest Lecture on Plant Anatomy, Iowa State University _(Sept. 20, 2021)_
-* Uploaded to Coursera as part of the Introduction to Predictive Plant Phenomics Class
-  
-Partners in Education Post-Baccalaureate Fellow, Grinnell College _(Jan. 2017 – May 2017)_
-* Provided tutoring and support for at-risk first year undergraduate students
-* Engaged participants through outreach and connected students with campus resources
+# Service
 
-Undergraduate Biology Mentor, Grinnell College
-* Biology: Molecules, Cells, and Organisms _(Fall semester 2014, 2015)_
-* Biology: Organisms, Evolution and Ecology _(Spring semester 2016)_
-* Led twice weekly, hour long mentor sessions with a flipped learning model
-* Facilitated discussion, serving as a bridge between students and professor
-* Advised biology/biochemistry majors on subsequent advanced courses
+I believe in supporting the scientific communities at local, national, and international scales through service. 
+I have completed extensive service throughout my career such as supporting fellow graduate students, contributing to community databases, and assisting conference organization. 
 
-## Service
-### Iowa State University, Ames, IA
-President of Ecology Evolution and Organismal Biology Graduate Student Organization _(Aug. 2022 –  Aug. 2023)_
-
-Seminar Chair of Ecology Evolution and Organismal Biology Graduate Student Organization _(May 2021 – May 2022)_
-* Representative in organizing departmental seminar series
-
-Vice President of Ecology Evolution and Organismal Biology Graduate Student Organization _(May 2020 – May 2022)_
-* Organize and run annual native plant sale fundraiser
-* Volunteered for the native plant sale annually since 2019
-
-Social Media Chair of P3 Graduate Student Organization Board _(May 2019 – May 2020)_
-* Maintained and grew P3 social media presences on Twitter, Facebook, and Instagram
-
-President of Interdepartmental Plant Biology Graduate Student Organization _(Jan. – Dec. 2019)_
-* Organized weekly program seminars
-
-Vice President of Interdepartmental Plant Biology Graduate Student Organization, _(Jan. – Dec. 2018)_
-* Facilitated weekly program seminars
-
-### MaizeGDB Editorial Board, Online
-Editorial Contributor _(Jan. 2020 – Dec. 2021)_
-* Summarized significant and recent articles for the maize community
-* Published monthly on MaizeGDB webpage
-
-### Maize Genetics Meeting Steering Committee, Online
-Graduate Student Representative _(Mar. 2021 – Mar. 2022)_
-* Elected by graduate student members of the Maize Genetics Cooperative
-
-### Miscellaneous
-Panelist on “Navigating Your Fellowship Application” hosted by ASPB ECPS DEI committee _(Sept. 17, 2021)_
+[See more about my service experiences here](pages/Service.md)
