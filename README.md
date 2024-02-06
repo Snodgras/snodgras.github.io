@@ -2,7 +2,9 @@
 This site is under development! Thank you for your patience!
 
 **NSF Postdoctoral Fellow at University of California Davis** (_February 2024 - January 2027_)
-[Ross-Ibarra Lab Website] (http://rilab.ucdavis.edu/)
+
+[Ross-Ibarra Lab Website]([url](http://rilab.ucdavis.edu/)))
+
 [Coop Lab Website] (https://gcbias.org/)
 
 [Read the grant abstract here] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2305694&HistoricalAwards=false)
