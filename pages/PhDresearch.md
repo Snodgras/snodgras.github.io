@@ -2,7 +2,7 @@
 
 _Note: Descriptions of these projects are modeled after the abstracts of each chapter in my dissertation, which is available through the Iowa State University library_
 
-[Return to main page](README.md)
+[Return to main page](https://snodgras.github.io/)
 
 ## Fractionation in the _Tripsacinae_ subtribe
 
@@ -51,4 +51,4 @@ We found that the majority of traits analyzed were explained mostly by variance 
 
 ![Row of corn against blue sky](assets/Ames_2019_Aug14_fieldoverviewbuffer.jpeg)
 
-[Return to main page](README.md)
+[Return to main page](https://snodgras.github.io/)
