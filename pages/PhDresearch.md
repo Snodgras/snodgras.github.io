@@ -49,6 +49,6 @@ Together, they allow us to quantify the contributions of variability at transcri
 We conducted a variance component analysis using high resolution transcription factor binding sites to quantify the amount of trait variation associated with these sites. 
 We found that the majority of traits analyzed were explained mostly by variance at these transcription factor binding sites.
 
-![Row of corn against blue sky](assets/Ames_2019_Aug14_fieldoverviewbuffer.jpeg)
+![Row of corn against blue sky](../assets/Ames_2019_Aug14_fieldoverviewbuffer.jpeg)
 
 [Return to main page](https://snodgras.github.io/)
