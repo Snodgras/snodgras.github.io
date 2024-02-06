@@ -30,6 +30,8 @@ This site is under development! Thank you for your patience!
 **Ph.D. in Plant Biology awarded January 2024**
 My Ph.D thesis work centers on the genetic models of hybrid vigor and genome evolution across the genus *Zea* and *Tripsacum*. By understanding how evolutionary and population dynamics have affected the genome structure of maize and its wild relatives, and then relate those processes to phenotype, this research will provide foundational information to plant domestication, which can be used to improve existing crops or accelerate domestication of wild plants or orphan crops. 
 
+[Learn more about my Ph.D. research projects here](pages/PhDresearch.md)
+
 ## Research Projects
 
 ### Fractionation in the _Tripsacinae_ subtribe
