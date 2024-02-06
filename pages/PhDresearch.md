@@ -17,7 +17,7 @@ Our results support the majority of fractionation happening soon after the ancie
 However, there appear to be significant differences between the genera _Zea_ and _Tripsacum_, potentially related to differences in chromosomal rearrangement histories that demarcate these genera. 
 Among other results (stay tuned for the preprint when it's released later in 2024!), this work suggests that fractionation is a much more dynamic process than previously predicted in the the _Tripsacinae_.
 
-![Teosintes grown in Iowa field conditions, summer of 2019](assets/Ames_2019_July24_teosintes.jpeg)
+![Teosintes grown in Iowa field conditions, summer of 2019](../assets/Ames_2019_July24_teosintes.jpeg)
 
 ## Single parent expression across a diverse maize hybrid population and F1 heterosis
 
@@ -39,7 +39,7 @@ However, heterosis was not maximized in historically important crosses such as t
 Significant correlations were found between the amount of SPE genes called in each genotype and the amount of heterosis observed for a limited number of traits. 
 In total, this supports the complementation model of heterosis and a tentative relationship between gene expression complementation and trait heterosis.
 
-![Hybrid trio of maize lines](assets/Ames_2019_July11_CML333P39hybridtrio-1.jpeg)
+![Hybrid trio of maize lines](../assets/Ames_2019_July11_CML333P39hybridtrio-1.jpeg)
 
 ## Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
 [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.08.551183v1)
