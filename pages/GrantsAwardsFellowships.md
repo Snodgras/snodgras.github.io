@@ -1,6 +1,6 @@
 Here is a current list of the grants, awards, and fellowships I have earned over my professional scientist career across programs, departments, institutions, national societies, and goverment agencies. 
 
-[Return to main page](README.md)
+[Return to main page](https://snodgras.github.io/)
 
 # Grants (Reverse Chronological Order)
 
@@ -38,4 +38,4 @@ Iowa State University **Research Excellence Award**, Iowa State University _(Dec
 
 **NSF Predictive Plant Phenomics Traineeship**, Iowa State University _(Aug. 2018 - Jan. 2024)_
 
-[Return to main page](README.md)
+[Return to main page](https://snodgras.github.io/)
