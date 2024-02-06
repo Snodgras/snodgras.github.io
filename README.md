@@ -2,7 +2,7 @@
 **_This site is under development! Thank you for your patience!_**
 
 ## Current Research
-**NSF Postdoctoral Fellow at University of California Davis** (_February 2024 - January 2027_) sponsored by and collaborating with [Dr. Jeffrey Ross-Ibarra]([url](http://rilab.ucdavis.edu/)) and [Dr. Graham Coop](https://gcbias.org/). 
+**NSF Postdoctoral Fellow at University of California Davis** (_February 2024 - January 2027_) sponsored by and collaborating with [Dr. Jeffrey Ross-Ibarra](http://rilab.ucdavis.edu/) and [Dr. Graham Coop](https://gcbias.org/). 
 
 _Human domestication of maize as bio-cultural coevolution_
 
