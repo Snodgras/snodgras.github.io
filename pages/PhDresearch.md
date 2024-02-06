@@ -2,6 +2,8 @@
 
 _Note: Descriptions of these projects are modeled after the abstracts of each chapter in my dissertation, which is available through the Iowa State University library_
 
+[Return to main page](README.md)
+
 ## Fractionation in the _Tripsacinae_ subtribe
 
 Despite the commonality of polyploidy, plant genomes are smaller than expected due to the process of gene loss called fractionation.
@@ -48,3 +50,5 @@ We conducted a variance component analysis using high resolution transcription f
 We found that the majority of traits analyzed were explained mostly by variance at these transcription factor binding sites.
 
 ![Row of corn against blue sky](assets/Ames_2019_Aug14_fieldoverviewbuffer.jpeg)
+
+[Return to main page](README.md)
