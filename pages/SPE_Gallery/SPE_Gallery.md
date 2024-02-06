@@ -1,4 +1,4 @@
-#Gallery of SPE and Trait Results
+# Gallery of SPE and Trait Results
 _Because it can't all fit on a poster_
 
 # A little background
