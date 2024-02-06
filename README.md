@@ -11,6 +11,8 @@ This site is under development! Thank you for your patience!
 
 ![Maize color diversity](https://github.com/Snodgras/snodgras.github.io/main/assets/Ames_2020_Sep26_colorwheelofcorn.jpg)
 
+![Full moon in corn field at dusk](assets/Ames_2019_July15_fullmoon.jpeg)
+
 # Publications (Reverse Chronological Order)
 1.	In Review: Gates, D.J., D. Runcie, G.M. Janzen, A. Romero-Navarro, M. Willcox, K. Sonder, **S.J. Snodgrass**, F. Rodríguez-Zapata, R.J.H. Sawers, R. Rellán-Álvarez, E.S. Buckler, S. Hearne, M.B. Hufford, J. Ross-Ibarra. Single-gene resolution of locally adaptive genetic variation in Mexican maize. [preprint](https://www.biorxiv.org/content/10.1101/706739v1)
 2.	Ning Yang, Yuebin Wang, Xiangguo Liu, Minliang Jin, Miguel Vallebueno-Estrada, Erin Calfee, Lu Chen, Brian P. Dilkes, Songtao Gui, Xingming Fan, Thomas K. Harper, Douglas J. Kennett, Wenqiang Li, Yanli Lu, Jingyun Luo, Sowmya Mambakkam, Mitra Menon, **Samantha Snodgrass**, Carl Veller, Shenshen Wu, Slying Wu, Yingjie Xiao, Xiaohong Yang, Michelle Stitzer, Daniel Runcie, Jianbing Yan, Jeffrey Ross-Ibarra. 2023. “Two Teosintes Made Modern Maize” _Science_ 382(6674) [doi.org/10.1126/science.adg8940](https://doi.org/10.1126/science.adg8940)
