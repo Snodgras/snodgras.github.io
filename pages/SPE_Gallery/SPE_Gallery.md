@@ -25,45 +25,55 @@ Flowering stages such as anthesis (shedding) and silking are recorded once the f
 Once half the row has reached a certain developmental stage, the row is recorded as reaching that stage on that particular day since planting.
 Thus growth rate is measured as the number of days to reach a particular stage. 
 
+![Overall Growth Rate Trends](OverallGrowthTrends_2020.png)
+Overall growth rate by days to stage. 
+Points are individual rows of a given genotype in the field. 
+Colors are for the hybrid group those genotypes belong to. 
+Lines represent line of best fit using `geom_smooth` for each hybrid group. 
+
 Growth rate can also be normalized by using growing degree days (GDD). 
 Since maize development is highly tied to heat, GDD can be used in place of days to be able to compare data across years. 
+![Overall Growth Rate by GDD](GrowthRate.GDD.heatmap.png)
 
 ## Plant and Ear Height
+Our heights were measured on 5 cm increments.
 
 Plant height is measured from the base of the plant (ground) to the flag leaf. 
+
 Ear height is measured from the base of the plant (ground) to the upper most or primary ear. 
-Our heights were measured on 5 cm increments. 
+ 
 
 ## Tassel Length and Branch Number
 
 Tassel length is measured from the base of the flag leaf to the tip of the tassel's central spike. 
 We used the same measuring device as plant and ear height, so these are also in 5 cm increments. 
+
 Tassel branch number is the number of primary spikes off the tassel's central spike. 
 
 ## Ear Traits
 ### Ear Width and Length
 
 Ear width is measured as the widest part of the ear (cm). 
+
 Ear length is measured as the length of the ear (cm). 
 
 ### Kernel Row Number, Kernel Height, Cob Width
 
 To get at these traits, it is easiest to cut the un-shelled cob in half. 
+
 Kernel row number is the number of kernel rows going around the circumference of the cob. 
+
 Cob width is the width of the cob, roughly in the middle of the cob where the cut point is made. 
+
 Kernel height is calculated by subtracting the cob width from the ear width, thus getting a measure of how "fat" the kernels are. 
 
 ## Yield Traits
-### Cob Weight
+### Cob Weight, 50 Kernel Weight, and Total Kernel Weight
 
 Cob weight is the total weight of just the cob in grams. 
 
-### 50 Kernel Weight
-
 50 kernel weight is the weight of 50 kernels from the ear. 
 Most ears had more than 50 kernels, though there were a few inbreds that did not have 50 kernels. 
-
-### Total Kernel Weight
 
 Total kernel weight is the weight of all the kernels shelled from a single ear. 
 
@@ -77,3 +87,4 @@ Lodged means that the stem was still intact, but significant bending had occurre
 Snapped means that the stem was broken, likely either at ear height or below. 
 
 # Single Parent Expression Results
+Single parent expression (SPE) is when a given gene is expressed in one parent and the F1 hybrid, but not in the other parent. 
