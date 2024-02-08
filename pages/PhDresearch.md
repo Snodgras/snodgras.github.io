@@ -25,6 +25,8 @@ Among other results (stay tuned for the preprint when it's released later in 202
 [Project github repo](https://github.com/Snodgras/Diallel_Hybrid_Analysis)
 _Note: github repo may be private until publication_
 
+[See gallery of trait summary plots here](SPE_Gallery/SPE_Gallery.md)
+
 Hybrid vigor is a common phenomenon where hybrid offspring grow faster, are more robust, and yield more than expected given the traits of the parents. 
 Of the models developed to explain the phenomenon, the complementation model is the one with most support.
 In this model, populations in reproductive isolation differentially accumulate and fix slightly deleterious recessive alleles. 
@@ -49,6 +51,7 @@ In total, this supports the complementation model of heterosis and a tentative r
 
 ## Phenotypic variation in maize can be largely explained by genetic variation at transcription factor binding sites
 [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.08.551183v1)
+
 [Project github repo](https://github.com/Snodgras/MOA_Analysis)
 
 Here, high quality genome assemblies are paired with novel techniques to identify transcription factor binding sites and established mapping populations. 
