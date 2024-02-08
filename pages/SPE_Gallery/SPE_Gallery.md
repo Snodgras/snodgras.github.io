@@ -86,11 +86,11 @@ Ear length is measured as the length of the ear (cm).
 
 Heterosis for ear width and length means that the values are greater than 0 (parental value). This means that ears are wider and/or longer than either the average of its parents (mid-parent heterosis) or its parent with the widest/longest ears (better parent heterosis). 
 
-![MPH ear width]()
-![BPH ear width]()
+![MPH ear width](mph.earwidth.box-violinplot.lettered.png)
+![BPH ear width](bph.earwidth.box-violinplot.lettered.png)
 
-![MPH ear length]()
-![BPH ear length]()
+![MPH ear length](mph.earlength.box-violinplot.lettered.png)
+![BPH ear length](bph.earlength.box-violinplot.lettered.png)
 
 ### Kernel Row Number, Kernel Height, Cob Width
 
@@ -105,14 +105,14 @@ Kernel height is calculated by subtracting the cob width from the ear width, thu
 
 Heterosis for these traits would been seen as values greater than 0 (parental value). This means that the hybrid has wider cobs, taller kernels, and/or more rows of kernels than either the average of its parents (mid-parent heterosis) or its parent with the widest cobs, tallest kernels, and/or most rows of kernels. 
 
-![MPH kernel row number]()
-![BPH kernel row number]()
+![MPH kernel row number](mph.kernelrownumber.box-violinplot.lettered.png)
+![BPH kernel row number](bph.kernelrownumber.box-violinplot.lettered.png)
 
-![MPH kernel height]()
-![BPH kernel height]()
+![MPH kernel height](mph.kernelheight.box-violinplot.lettered.png)
+![BPH kernel height](bph.kernelheight.box-violinplot.lettered.png)
 
-![MPH Cob width]()
-![BPH cob width]()
+![MPH Cob width](mph.cobwidth.box-violinplot.lettered.png)
+![BPH cob width](bph.cobwidth.box-violinplot.lettered.png)
 
 ## Yield Traits
 ### Cob Weight, 50 Kernel Weight, and Total Kernel Weight
@@ -128,14 +128,14 @@ Total kernel weight is the weight of all the kernels shelled from a single ear.
 
 Heterosis for these traits would be any values above 0 (the parental value). This would mean the hybrid has a heavier cob weight, 50 kernel weight, and/or total kernel weight than either the average of the two parents (mid-parent heterosis) or the parent with the heaviest cobs, 50 kernels, and/or total kernel weight (better parent heterosis). 
 
-![MPH cob weight]()
-![BPH cob weight]()
+![MPH cob weight](mph.cobweight.box-violinplot.lettered.png)
+![BPH cob weight](bph.cobweight.box-violinplot.lettered.png)
 
-![MPH 50K weight]()
-![BPH 50K weight]()
+![MPH 50K weight](mph.fiftykernelweight.box-violinplot.lettered.png)
+![BPH 50K weight](bph.fiftykernelweight.box-violinplot.lettered.png)
 
-![MPH total kernel weight]()
-![BPH total kernel weight]()
+![MPH total kernel weight](mph.totalkernelweight.box-violinplot.lettered.png)
+![BPH total kernel weight](bph.totalkernelweight.box-violinplot.lettered.png)
 
 ## Wind Resistance
 
