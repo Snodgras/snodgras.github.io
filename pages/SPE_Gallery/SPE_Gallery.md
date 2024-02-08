@@ -1,7 +1,10 @@
 # Gallery of SPE and Trait Results
 _Because it can't all fit on a poster_
 
+**Note** these figures are drafts and are not publication quality and represent currently unpublished data. Please do not redistribute or use for your own purposes.
+
 [Return to main page](https://snodgras.github.io/)
+
 [Return to Ph.D. research page](../PhDresearch.md)
 
 # A little background
