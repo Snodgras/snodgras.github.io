@@ -1,6 +1,9 @@
 # Gallery of SPE and Trait Results
 _Because it can't all fit on a poster_
 
+[Return to main page](https://snodgras.github.io/)
+[Return to Ph.D. research page](../PhDresearch.md)
+
 # A little background
 
 **Heterosis** is a phenomenon where the F1 hybrid does better than expected given the performance of its parents. 
@@ -155,4 +158,7 @@ Wind susceptibility was the combined percentage of lodged and snapped plants.
 ![wind susceptibilty by hybrid group](windresistance_density_windsuscept.HybridGroup.png)
 
 # Single Parent Expression Results
-Single parent expression (SPE) is when a given gene is expressed in one parent and the F1 hybrid, but not in the other parent. 
+Single parent expression (SPE) is when a given gene is expressed in one parent and the F1 hybrid, but not in the other parent.
+
+[Return to main page](https://snodgras.github.io/)
+[Return to Ph.D. research page](../PhDresearch.md)
