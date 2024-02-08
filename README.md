@@ -1,4 +1,4 @@
-# Dr. Samantha Snodgrass' Research
+# The Research of Dr. Samantha Snodgrass
 **_This site is under development! Thank you for your patience!_**
 
 ## Current Research
