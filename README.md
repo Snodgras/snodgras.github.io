@@ -1,6 +1,8 @@
 # The Research of Dr. Samantha Snodgrass
 **_This site is under development! Thank you for your patience!_**
 
+I am fascinated with plant domestication and studying agricultural systems through an evolutionary lens. As a NSF Postdoctoral Fellow at the University of California Davis, mentored by [Dr. Jeffrey Ross-Ibarra](http://rilab.ucdavis.edu/) and [Dr. Graham Coop](https://gcbias.org/), I leverage the tight relationship of humans and maize to better understand how maize moved with and between communities and identify selection on traits thousands of years ago during domestication and later range expansions. This work is a continuation of my Ph.D work at Iowa State University in [Dr. Matthew Hufford's lab](https://www.zeagenomics.org/). As an NSF Graduate Research Fellow and NSF NRT Trainee, I investigated genomic consequences of hybridization at short and long term timescales in maize and its wild relatives using new pseudomolecule, reference level assemblies. These consequences include phenomena such as hybrid vigor in F1 offspring and fractionation across lineages sharing a single whole genome duplication event.
+
 ## Current Research
 **NSF Postdoctoral Fellow at University of California Davis** (_February 2024 - January 2027_) sponsored by and collaborating with [Dr. Jeffrey Ross-Ibarra](http://rilab.ucdavis.edu/) and [Dr. Graham Coop](https://gcbias.org/). 
 
