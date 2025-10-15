@@ -6,7 +6,7 @@ Email: ssnodgrass @ ucdavis.edu
 
 Research Website: [https://snodgras.github.io/](https://snodgras.github.io/)
 
-LinkedIn: [https://www.linkedin.com/in/samantha-snodgrass-b317b8186/](https://www.linkedin.com/in/samantha-snodgrass-b317b8186/)
+LinkedIn: [https://www.linkedin.com/in/samantha-snodgrass-genome-biologist/](https://www.linkedin.com/in/samantha-snodgrass-genome-biologist/)
 
 ## Research Experience 
 NSF Post Doctoral Fellow, University of California Davis **(Feb. 2024—current)**
