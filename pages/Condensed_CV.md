@@ -137,4 +137,6 @@ _In Revision_
 16.	Iowa State Interdepartmental Plant Biology Student Seminar Series December 6, 2017 
 17.	Research, Scholarship, and Creative Activity Symposium at Grinnell College April 12, 2016 
 - Admitted into the digital archive of student scholarship of the Grinnell College Library [https://digital.grinnell.edu/islandora/object/grinnell%3A13258](https://digital.grinnell.edu/islandora/object/grinnell%3A13258)
-18.	Grinnell College Biology Department Student Seminar February 23, 2016 
+18.	Grinnell College Biology Department Student Seminar February 23, 2016
+
+[Return to main page](https://snodgras.github.io/)
